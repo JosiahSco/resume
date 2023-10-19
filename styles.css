@@ -5,6 +5,7 @@
 body {
     display: flex;
     justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .page {
@@ -30,4 +31,9 @@ hr {
 
 .education-info {
     margin-left: 2rem;
+}
+
+.space-between-container {
+    display: flex;
+    justify-content: space-between;
 }
